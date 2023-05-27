@@ -19,6 +19,7 @@ The application you have here is an "Alien vs Predator" image classifier. It use
 When you run the application, it will provide you with an interface where you can upload an image. Once you upload an image, the application will preprocess the image by resizing it and applying the same preprocessing steps as in the data generator. It will then pass the preprocessed image through the pre-trained model to make a prediction. The predicted class (either "Alien" or "Predator") will be displayed as the output label.
 
 Feel free to give it a try by uploading your own images and see how the model classifies them as either "Alien" or "Predator"! Enjoy exploring the "Alien vs Predator" classification app.
+
 ![](photo_gif.gif)
 
 ## How to Run the Project and app?
